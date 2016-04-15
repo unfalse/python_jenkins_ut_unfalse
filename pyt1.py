@@ -1,5 +1,5 @@
 # content of test_sample.py
-xdef func(x):
+def func(x):
     return x + 1
 
 def test_answer():
